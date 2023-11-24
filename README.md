@@ -33,7 +33,7 @@ User-friendly Interface: Intuitive design ensures a seamless user experience acr
 Responsive Design: Adaptable interface allowing efficient task management on various screen sizes.
 Scalability: Designed to accommodate future enhancements and additional functionalities.
 Usage
-Access the application by navigating to http://localhost:3000 in your web browser after starting the development server.
+Access the application by navigating to http://localhost:5170 (may vary) in your web browser after starting the development server.
 Contributing
 Fork and clone the repository.
 Make changes or add features.
