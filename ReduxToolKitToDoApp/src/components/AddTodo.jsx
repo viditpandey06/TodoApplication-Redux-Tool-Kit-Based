@@ -1,3 +1,5 @@
+/* The code you provided is a React component called `AddTodo`. It is responsible for rendering a form
+with an input field and a button. */
 import React from 'react'
 import {useDispatch} from 'react-redux'
 import {addTodo} from '../feautures/todo/todoSlice'
@@ -9,7 +11,7 @@ const dispatch = useDispatch()
 const addTodoHandler = (e)=>{
     e.preventDefault()
     dispatch(addTodo(input))
-    setInput('')// a good pracise to clear the form once data is submitted by user
+    setInput('')// reseting the field.
     
 }
 
